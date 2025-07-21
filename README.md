@@ -1,4 +1,4 @@
-Certainly! Here is a **short project description** and a **professional, ready-to-use README template** for your GitHub repository, tailored to your DNS SaaS platform as discussed. The structure follows best practices for clarity, engagement, and usability[[1](https://www.hatica.io/blog/best-practices-for-github-readme/)][[3](https://github.com/othneildrew/Best-README-Template)][[4](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)][[5](https://gist.github.com/khaledabdelfatah/a4d6dc6331753418f0df9e215cb1cbc3)][[7](https://hackernoon.com/5-professional-tips-for-crafting-a-winning-readme)][[8](https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2)].
+Certainly! Here is a **short project description** and a **professional, ready-to-use README template** for your GitHub repository, tailored to your DNS SaaS platform as discussed. The structure follows best practices for clarity, engagement, and usability
 
 # Zero-Touch DNS AI
 
