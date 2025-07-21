@@ -146,11 +146,6 @@ Create a powerful, fully automated SaaS platform that enables non-technical user
 ## References  
 (Estimates/market data drawn from Bacancy[1], RaftLabs[2], Contus[3], SPDLoad[4], NineHertz[5], Cleveroad[7])
 
-## Next Steps/Export Options
-
-- This format can be exported directly to PDF.
-- Let me know if you’d like a formalized PDF PRD or any specific section or table expanded!
-
 [1] https://www.bacancytechnology.com/blog/saas-development-costs
 [2] https://www.raftlabs.com/blog/saas-app-developement-cost/
 [3] https://www.contus.com/blog/saas-development-cost/
