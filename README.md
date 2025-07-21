@@ -106,18 +106,3 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 - Website: [[bcss.in](https://bcss.in/)](https://bcss.in)
 
 > *Empower everyone to secure their digital identity—no expertise required.*
-
-*Adapt and expand this README as your project evolves. For more advanced setup, refer to detailed [README templates and best practices][[1](https://www.hatica.io/blog/best-practices-for-github-readme/)][[3](https://github.com/othneildrew/Best-README-Template)][[4](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)][[5](https://gist.github.com/khaledabdelfatah/a4d6dc6331753418f0df9e215cb1cbc3)][[7](https://hackernoon.com/5-professional-tips-for-crafting-a-winning-readme)][[8](https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2)].*
-
-**Sources referenced for best practices on structuring and formatting:** [[1](https://www.hatica.io/blog/best-practices-for-github-readme/)][[3](https://github.com/othneildrew/Best-README-Template)][[4](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)][[5](https://gist.github.com/khaledabdelfatah/a4d6dc6331753418f0df9e215cb1cbc3)][[7](https://hackernoon.com/5-professional-tips-for-crafting-a-winning-readme)][[8](https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2)]
-
-[1] https://www.hatica.io/blog/best-practices-for-github-readme/
-[2] https://github.com/jehna/readme-best-practices
-[3] https://github.com/othneildrew/Best-README-Template
-[4] https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-[5] https://gist.github.com/khaledabdelfatah/a4d6dc6331753418f0df9e215cb1cbc3
-[6] https://dev.to/sumonta056/github-readme-template-for-personal-projects-3lka
-[7] https://hackernoon.com/5-professional-tips-for-crafting-a-winning-readme
-[8] https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2
-[9] https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-[10] https://www.reddit.com/r/learnprogramming/comments/vxfku6/how_to_write_a_readme/
