@@ -94,19 +94,6 @@ Create a powerful, fully automated SaaS platform that enables non-technical user
   - *Team in India/Eastern Europe lowers cost by 30–50% over US/EU rates*.
   - *Annual cloud/SaaS costs for API/hosting: $10,000–$30,000/year (startup scale), rising with users/features.*
 
-## Can This Be Built in Vibe Coding?
-
-**What is Vibe Coding?**
-- If you’re referring to [Vibe](https://vibed.org/), a web framework for D (the D programming language), or any low-code/no-code tool branded “Vibe,” the feasibility depends on your precise requirements.
-
-### **With Vibe.d (D language web framework):**
-
-- **PROS:** Efficient concurrency, good for HTTP APIs and web apps, strong real-time capabilities, and open source.
-- **CONS:**  
-  - Ecosystem is much smaller than Python (Django), Node (Express/Nest), or Go (Gin/Fiber).
-  - Fewer ready-made packages for DNS, AI integrations, observability, K8s, etc.
-  - Most open source DNS/AI/monitoring tools are *not* in D or directly compatible, requiring major porting/wrapping.
-
 ### **Realistic Feasibility**
 
 - **Core app (APIs, basic UI, some logic):** *Yes, possible with Vibe.d plus manual API integrations*.
